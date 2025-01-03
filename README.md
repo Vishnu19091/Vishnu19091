@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**Vishnu lives in Kanchipuram**
+**Living in Kanchipuram**
 
 <!--
 **Vishnu19091/Vishnu19091** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
