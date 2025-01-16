@@ -1,6 +1,6 @@
 ## Hi there 👋 I am Vishnu
 
-**Living in Kanchipuram,🇮🇳**
+**Living in Kanchipuram, IN**
 - 
 - ❤️ I love building websites
 - 🎓 A Final Year CSE student
