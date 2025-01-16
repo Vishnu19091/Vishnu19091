@@ -2,14 +2,14 @@
 
 **Living in Kanchipuram,🇮🇳**
 - 
-- ❤️ I love building websites.
-- 🎓 A Final Year CSE student.
+- ❤️ I love building websites
+- 🎓 A Final Year CSE student
 - 💼 Doing freelance on [Upwork](https://www.upwork.com/freelancers/~010bfc9fdd49a84ea9?mp_source=share)
-- 🌱 I’m currently learning **React, TypeScript, TailwindCSS, Django,**
+- 🌱 I’m currently learning **React, TypeScript, TailwindCSS, Django, FastAPI**
 
-<h2 align="center">My Tech Stack</h2>
+## My Tech Stack
 
-   [![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,typescript,react,py,django,mysql,aws,linux,gitlab)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,typescript,react,py,django,mysql,linux,gitlab)](https://skillicons.dev)
    
 <details>
   <summary>Click to see more!</summary>
