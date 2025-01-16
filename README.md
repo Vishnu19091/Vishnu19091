@@ -5,7 +5,7 @@
 - ❤️ I love building websites
 - 🎓 A Final Year CSE student
 - 💼 Doing freelance on [Upwork](https://www.upwork.com/freelancers/~010bfc9fdd49a84ea9?mp_source=share)
-- 🌱 I’m currently learning **React, TypeScript, TailwindCSS, Django, FastAPI**
+- 🌱 I’m currently learning **React, TypeScript, TailwindCSS, Django**
 
 ## My Tech Stack
 
