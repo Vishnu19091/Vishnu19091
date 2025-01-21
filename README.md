@@ -3,7 +3,7 @@
 **Living in Kanchipuram, IN**
 - 
 - ❤️ I love building websites
-- 🎓 A Final Year CSE student
+- 🎓 Final Year CSE
 - 💼 Doing freelance on [Upwork](https://www.upwork.com/freelancers/~010bfc9fdd49a84ea9?mp_source=share)
 - 🌱 I’m currently learning **React, TypeScript, TailwindCSS, Django**
 
