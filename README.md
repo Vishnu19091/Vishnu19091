@@ -4,7 +4,7 @@
 - 
 - ❤️ I love building websites
 - 🎓 Final Year CSE
-- 💼 Doing freelance on [Upwork](https://www.upwork.com/freelancers/~010bfc9fdd49a84ea9?mp_source=share)
+- 💼 Open to freelance work
 - 🌱 I’m currently learning **React, TypeScript, TailwindCSS, Django**
 
 ## My Tech Stack
@@ -17,5 +17,11 @@
   <!-- [![Vishnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vishnu19091)](https://github.com/anuraghazra/github-readme-stats) -->
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnu19091&layout=compact)
 </details>
+
+## Socials
+[LinkedIn](https://www.linkedin.com/in/vishnuvt1183)
+[LeetCode](https://leetcode.com/u/vishnusah368/)
+[UpWork](https://www.upwork.com/freelancers/~010bfc9fdd49a84ea9?mp_source=share)
+[YouTube](https://youtube.com/@vishnusah-dq2ke)
 
 <!-- ![](https://komarev.com/ghpvc/?username=Vishnu19091) -->
