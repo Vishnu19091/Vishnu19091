@@ -1,11 +1,10 @@
 ## Hi there 👋 I am Vishnu
 
 **Living in Kanchipuram, IN**
-- 
-- ❤️ I love building websites
-- 🎓 Final Year CSE
-- 💼 Open to freelance work
-- 🌱 I’m currently learning **React, TypeScript, TailwindCSS, Django**
+- ❤️ I Love building websites and useful sofwares.
+- 🎓 Final Year CSE student.
+- 🌱 I’m currently learning **React, TypeScript, TailwindCSS, Django**.
+- 💼 Open to freelance work [UpWork](https://www.upwork.com/freelancers/~010bfc9fdd49a84ea9?mp_source=share).
 
 ## My Tech Stack
 
@@ -19,9 +18,13 @@
 </details>
 
 ## Socials
-[LinkedIn](https://www.linkedin.com/in/vishnuvt1183)
-[LeetCode](https://leetcode.com/u/vishnusah368/)
-[UpWork](https://www.upwork.com/freelancers/~010bfc9fdd49a84ea9?mp_source=share)
-[YouTube](https://youtube.com/@vishnusah-dq2ke)
+<p align="left">
+   <a href="https://www.github.com/Vishnu19091" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+   <a href="https://www.linkedin.com/in/vishnuvt1183/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+   <a href="https://youtube.com/@vishnusah-dq2ke" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>
+</p>
 
 <!-- ![](https://komarev.com/ghpvc/?username=Vishnu19091) -->
