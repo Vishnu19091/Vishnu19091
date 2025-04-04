@@ -1,21 +1,16 @@
 ## Hi there 👋 I am Vishnu
 
-**Living in Kanchipuram, IN**
-- ❤️ I Love building websites and useful sofwares.
-- 🎓 Final Year CSE student.
-- 🌱 I’m currently learning **React, TypeScript, TailwindCSS, Django**.
-- 💼 Open to freelance work [UpWork](https://www.upwork.com/freelancers/~010bfc9fdd49a84ea9?mp_source=share).
+- 🎓 UG in B.Tech-CSE.
+- 🌱 I’m currently learning **React, TypeScript, TailwindCSS, FastAPi**.
+- 💼 Open to freelance work.
 
 ## My Tech Stack
 
-   [![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,typescript,react,py,django,mysql,linux,gitlab)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,typescript,react,py,fastapi,mysql,linux,gitlab,postman)](https://skillicons.dev)
    
-<details>
-  <summary>Click to see more!</summary>
+  [![Vishnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vishnu19091)](https://github.com/anuraghazra/github-readme-stats)
   
-  <!-- [![Vishnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vishnu19091)](https://github.com/anuraghazra/github-readme-stats) -->
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnu19091&layout=compact)
-</details>
 
 ## Socials
 <p align="left">
@@ -27,4 +22,5 @@
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>
 </p>
 
-<!-- ![](https://komarev.com/ghpvc/?username=Vishnu19091) -->
+### How to reach me:
+Send an E-Mail to vishnusah368@gmail.com.
