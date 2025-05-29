@@ -2,7 +2,6 @@
 
 - 🎓 UG in B.Tech-CSE.
 - 🌱 I’m currently learning **React, TypeScript, TailwindCSS, FastAPi**.
-- 💼 Open to freelance work.
 
 ## My Tech Stack
 
