@@ -22,4 +22,4 @@
 </p>
 
 ### How to reach me:
-Send an E-Mail to vishnusah368@gmail.com.
+Send an email to vishnusah368@gmail.com.
