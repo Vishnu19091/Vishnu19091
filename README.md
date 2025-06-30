@@ -1,15 +1,21 @@
 ## Hi there 👋 I am Vishnu
 
 - 🎓 UG in B.Tech-CSE.
-- 🌱 I’m currently learning **React, TypeScript, TailwindCSS, FastAPi**.
+- 🧑‍💻 Linux enthusiast.
+- ❤️ I love building stuff related to softwares, web services then testing it with my homeserver :D
+- 🌱 I’m currently learning **React, TypeScript, TailwindCSS, FastAPi, NestJS, NextJs, Docker**.
 
 ## My Tech Stack
 
-   [![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,typescript,react,py,fastapi,mysql,linux,gitlab,postman)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,typescript,react,nextjs,nestjs,py,fastapi,mysql,linux,gitlab,postman,docker)](https://skillicons.dev)
    
-  [![Vishnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vishnu19091)](https://github.com/anuraghazra/github-readme-stats)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnu19091&layout=compact)
+   ![Vishnu19091's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vishnu19091&show_icons=true&theme=radical)
+   
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnu19091&layout=compact)
+   
+   ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Vishnu19091\&repo=Phishing_Detection_using_ML\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)                    ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Vishnu19091\&repo=Portfolio\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
+
+   [stargazers]: https://github.com/Readme-Workflows/recent-activity/Vishnu19091
 
 ## Socials
 <p align="left">
