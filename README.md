@@ -1,9 +1,7 @@
 ## Hi there 👋 I am Vishnu
 
-- 🎓 UG in B.Tech-CSE.
 - 🧑‍💻 Linux enthusiast.
-- ❤️ I love building stuff related to softwares, web services then testing it with my homeserver :D
-- 🌱 I’m currently learning **React, TypeScript, TailwindCSS, FastAPi, NestJS, NextJs, Docker**.
+- 🌱 I’m currently learning **React, TypeScript, NextJs, Networking(OSI)**.
 
 ## My Tech Stack
 
