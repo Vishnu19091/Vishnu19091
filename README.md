@@ -6,15 +6,13 @@
 ## My Tech Stack
 
    [![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,typescript,react,nextjs,nestjs,py,fastapi,mysql,postman,docker,linux)](https://skillicons.dev)
-   
+
    ![Vishnu19091's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vishnu19091&show_icons=true&theme=radical)
 
-## Socials
+## Social
 <p align="left">
    <a href="https://www.linkedin.com/in/vishnuvt1183/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-   <a href="https://youtube.com/@vishnusah-dq2ke" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>
 </p>
 
 ### How to reach me:
