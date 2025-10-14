@@ -14,6 +14,3 @@
    <a href="https://www.linkedin.com/in/vishnuvt1183/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 </p>
-
-### How to reach me:
-Send an email to vishnusah368@gmail.com.
