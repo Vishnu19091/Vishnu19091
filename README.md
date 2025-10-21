@@ -1,7 +1,7 @@
 ## Hi there 👋 I am Vishnu
 
 - 🧑‍💻 Linux enthusiast.
-- 🌱 I’m currently learning **React, TypeScript, NextJs**.
+- 🌱 I’m currently learning **React, NextJs**.
 
 ## My Tech Stack
 
