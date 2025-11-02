@@ -1,7 +1,32 @@
-## Hi there 👋 I am Vishnu
 
-- 🧑‍💻 Linux enthusiast.
-- 🌱 I’m currently learning **React, NextJs**.
+<h1 align="center">Hi 👋🏻, I'm Vishnu</h1>
+
+- 🧠 I’m learning **React, NextJs**
+- 🧑🏻‍💻 OSINT, Computer Networking
+- ❤️ Explore random stuff about Linux🐧
+
+<h3 align="left">🚀 Featured Projects</h3>
+
+<details>
+  <summary><strong>Phishing Detection Extension</strong> - Extension project</summary>
+  <br/>
+  <p>
+    A browser extension that detects phishing websites in real time using rule-based URL analysis and Google Safe Browsing API integration.
+    <br/>
+    <a href="https://addons.mozilla.org/addon/anti-phishing-extension/" target="_blank"><strong>Extension Link</strong></a> | 
+    <a href="https://github.com/Vishnu19091/Phishing_Detection_Extension/" target="_blank"><strong>GitHub Repo Link</strong></a>
+  </p>
+</details>
+
+<details>
+  <summary><strong>Task-Management-NestJS</strong> - Web App</summary>
+  <br/>
+  <p>
+    A simple web app project using React & Nestjs.
+    <br/>
+    <a href="https://github.com/Vishnu19091/Task-Management-NestJS/" target="_blank"><strong>GitHub</strong></a>
+  </p>
+</details>
 
 ## My Tech Stack
 
