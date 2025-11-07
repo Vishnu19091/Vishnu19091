@@ -31,7 +31,7 @@
 
 ## My Tech Stack
 
-   [![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,typescript,react,nextjs,nestjs,py,mysql,postman,docker,linux)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,typescript,react,nextjs,py,mysql,postman,docker,linux)](https://skillicons.dev)
 
    ![Vishnu19091's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vishnu19091&show_icons=true&theme=radical)
 
