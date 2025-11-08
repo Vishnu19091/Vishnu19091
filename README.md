@@ -29,11 +29,16 @@
   </p>
 </details>
 
+<div align="center">
+  
 ## My Tech Stack
 
-   [![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,typescript,react,nextjs,py,mysql,postman,docker,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,typescript,react,nextjs,py,mysql,postman,docker,linux)](https://skillicons.dev)
+  
+![Vishnu19091's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vishnu19091&show_icons=true&theme=radical)
 
-   ![Vishnu19091's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vishnu19091&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Vishnu19091)](https://git.io/streak-stats)
+</div>
 
 ## Connect me
 <p align="left">
