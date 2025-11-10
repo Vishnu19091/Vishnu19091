@@ -24,7 +24,7 @@
   <p>
     A simple web app project using React & Nestjs.
     <br/>
-    <a href="https://github.com/Vishnu19091/Task-Management-NestJS/" target="_blank"><strong>GitHub</strong></a>
+    <a href="https://github.com/Vishnu19091/Task-Management-NestJS/" target="_blank"><strong>GitHub</strong></a> | 
     <a href="https://github.com/Vishnu19091/Task-Management-NestJS/tree/main/backend/nestjs-task-management" target="_blank"><strong>About back-end</strong></a>
   </p>
 </details>
