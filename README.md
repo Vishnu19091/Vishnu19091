@@ -37,7 +37,7 @@
   
 ![Vishnu19091's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vishnu19091&show_icons=true&theme=radical)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Vishnu19091&theme=neon&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&card_width=600&card_height=200)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-1183.vercel.app?user=Vishnu19091&theme=neon&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&card_width=600&card_height=200)](https://git.io/streak-stats)
 </div>
 
 ## Connect me
