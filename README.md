@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋🏻, I'm Vishnu</h1>
 
-- 🧠 I’m learning **React, NextJs**
+- I’m learning **React, NextJs**
 - 🧑🏻‍💻 OSINT, Computer Networking
 - ❤️ Explore random stuff about Linux🐧
 
