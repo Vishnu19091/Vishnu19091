@@ -12,7 +12,7 @@
   <p>
     A browser extension that detects phishing websites in real time using rule-based URL analysis and Google Safe Browsing API integration.
     <br/>
-    <a href="https://addons.mozilla.org/addon/anti-phishing-extension/" target="_blank"><strong>Extension Link</strong></a> | 
+    <a href="https://addons.mozilla.org/addon/anti-phishing-extension/" target="_blank"><strong>Extension Link</strong></a> |
     <a href="https://github.com/Vishnu19091/Phishing_Detection_Extension/" target="_blank"><strong>GitHub Repo Link</strong></a>
   </p>
 </details>
@@ -23,7 +23,7 @@
   <p>
     A simple web app project using Nextjs & Nestjs.
     <br/>
-    <a href="https://github.com/Vishnu19091/Task-Management-NestJS/" target="_blank"><strong>GitHub</strong></a> | 
+    <a href="https://github.com/Vishnu19091/Task-Management-NestJS/" target="_blank"><strong>GitHub</strong></a> |
     <a href="https://github.com/Vishnu19091/Task-Management-NestJS/tree/main/backend/nestjs-task-management" target="_blank"><strong>About back-end</strong></a>
   </p>
 </details> -->
@@ -32,7 +32,7 @@
   
 ## My Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,typescript,react,nextjs,py,mysql,postman,docker,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,typescript,react,nextjs,py,mysql,postman,docker,arch)](https://skillicons.dev)
 
 ![Vishnu19091's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vishnu19091&show_icons=true&theme=radical)
 
