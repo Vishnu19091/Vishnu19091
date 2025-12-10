@@ -34,7 +34,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,typescript,react,nextjs,py,mysql,postman,docker,arch)](https://skillicons.dev)
 
-![Vishnu19091's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vishnu19091&show_icons=true&theme=radical)
+![Vishnu19091's GitHub stats](https://github-readme-stats-ten-pi-72.vercel.app/api?username=Vishnu19091&show_icons=true&theme=radical)
 
 [![GitHub Streak](https://github-readme-streak-stats-1183.vercel.app?user=Vishnu19091&theme=neon&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&card_width=600&card_height=200)](https://git.io/streak-stats)
 
