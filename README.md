@@ -1,13 +1,22 @@
 <h1 align="center">Hi 👋🏻, I'm Vishnu</h1>
 
-- I’m learning **React, NextJs**
-- 🧑🏻‍💻 OSINT, Computer Networking
-- ❤️ Explore random stuff about Linux🐧
+- I’m learning how not to nitpick 🧑🏻‍💻
+- ❤️ Exploring the world with Linux🐧
 
-<!-- <h3 align="left">🚀 Featured Projects</h3>
+<h3 align="left">🚀 Featured Projects</h3>
 
 <details>
-  <summary><strong>Phishing Detection Extension</strong> - Extension project</summary>
+  <summary><strong>Cron-job URL Scheduler</strong></summary>
+  <br/>
+  <p>CronJob is a web-based cron-job scheduler that periodically sends requests to user-defined URLs to keep services alive, monitor uptime, and track response performance. Built with Next.js and Appwrite.
+    <br/>
+    <a href="https://cron-job-url.vercel.app/" target="_blank"><strong>App Link</strong></a> |
+    <a href="https://github.com/Vishnu19091/cron-job" target="_blank"><strong>GitHub Repo Link</strong></a>
+  </p>
+</details> 
+
+<details>
+  <summary><strong>Phishing Detection Extension</strong> - Extension</summary>
   <br/>
   <p>
     A browser extension that detects phishing websites in real time using rule-based URL analysis and Google Safe Browsing API integration.
@@ -16,17 +25,6 @@
     <a href="https://github.com/Vishnu19091/Phishing_Detection_Extension/" target="_blank"><strong>GitHub Repo Link</strong></a>
   </p>
 </details>
-
-<details>
-  <summary><strong>Task-Management-NestJS</strong> - Web App</summary>
-  <br/>
-  <p>
-    A simple web app project using Nextjs & Nestjs.
-    <br/>
-    <a href="https://github.com/Vishnu19091/Task-Management-NestJS/" target="_blank"><strong>GitHub</strong></a> |
-    <a href="https://github.com/Vishnu19091/Task-Management-NestJS/tree/main/backend/nestjs-task-management" target="_blank"><strong>About back-end</strong></a>
-  </p>
-</details> -->
 
 <div align="center">
   
@@ -40,7 +38,7 @@
 
 </div>
 
-## Connect me
+---
 
 <p align="left">
    <a href="https://www.linkedin.com/in/vishnuvt1183/" target="_blank" rel="noreferrer">
